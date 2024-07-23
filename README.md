@@ -7,7 +7,7 @@ Onion Architecture and N-Tier Architecture are both architectural patterns used 
 ## Onion Architecture
 
 
-![Onion-Architecture](/Onion-Architecture.png)
+![Onion-Architecture](/onion.png)
 
 Onion Architecture, also known as Clean Architecture, is a software design pattern that emphasizes separation of concerns and dependency inversion. It is structured in concentric layers, with the core business logic at the center and infrastructure concerns on the outer layers.
 
